@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932086767066",
+    "project_id": "book-shelf-d5cce",
+    "storage_bucket": "book-shelf-d5cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932086767066:android:91b938714242c3489f74e3",
+        "android_client_info": {
+          "package_name": "com.canerture.booksapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDO6SxhuVnS3se4mXXqDYQOoY8gozX_VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
